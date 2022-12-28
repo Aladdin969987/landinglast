@@ -1,0 +1,159 @@
+@media(max-width:575px){
+
+ header{
+    padding: 0;
+ }   
+ .navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav:hover .nav-link {
+    color: #000;
+}
+
+.btn-head{
+    margin: 0;
+    border: 2px solid rgb(9, 97, 177);
+    color: #000;
+    font-weight: 600;
+}
+.btn-head:hover {
+    color: #000;
+}
+.navbar {
+    padding: 0;
+}
+.student img {
+    width: 60%;
+    margin-right: 210px;
+}
+.inbound h1 {
+    font-size: 35px;
+}
+.live-call img {
+    width: 15%;
+}
+.live-call h2 {
+
+    font-size: 20px;
+}
+.check-call {
+    margin-bottom: 25px!important;
+    width: 80%;
+    margin: auto;
+}
+.direct-call {
+    padding: 0px;
+    width: 80%;
+    margin: auto;
+}
+.check-call p {
+    margin-top: 50px;
+    font-size: 15px;
+}
+.quality h1 {
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 30px;
+}
+.quality p {
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn-free {
+    padding: 10px 10px;
+    background: rgb(97, 155, 208);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    transition: all 0.7s ease-in-out 0s;
+}
+.details-section1 {
+
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px!important;
+}
+.details-section2 {
+
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px!important;
+}
+.details-start1 h5, .details-start2 h5 {
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+}
+.details-part1 p, .details-part2 p {
+    margin-top: 50px;
+    font-size: 15px;
+    /* margin: 0; */
+}
+.details-start1 i {
+    height: 25px;
+    width: 25px;
+    font-weight: 700;
+    font-size: 15px;
+    margin-right: 12px;
+}
+.mentor1-img{
+    width: 80%;
+    margin: auto;
+}
+.Process h1 {
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+.Process{
+    padding: 0!important;
+}
+.Develop {
+    background: #fff;
+    padding: 40px 60px;
+    width: 100%;
+    height: 400px;
+    border-radius: 150px 150px 30px 30px;
+    position: relative;
+    transition: .7s all ease-in-out;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.Develop p {
+    font-size: 15px;
+    line-height: 41px;
+    font-weight: 500;
+    margin-top: 55px;
+}
+.Serve h1 {
+    font-size: 35px;
+    font-weight: 700;
+    padding: 50px 0px;
+    margin: 0!important;
+}
+.Finances {
+    background: #99999912;
+    padding: 40px 44px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 55px!important;
+    height: 90%;
+    border-radius: 20px;
+    transition: .7s all ease-in-out;
+}
+.sir-mam {
+    width: 60%;
+    margin-left: auto;
+}
+.btn-head i {
+    margin-right: 10px;
+    color: rgb(9, 97, 177);
+}
+.Questions h1 {
+    font-weight: 700;
+    font-size: 25px;
+}
+}
